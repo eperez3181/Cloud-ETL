@@ -1,11 +1,11 @@
-# big-data-challenge: "Alexa, can You Handle Big Data?"
+# "Alexa, can You Handle Big Data?"
 #### Created by: Estela Perez
 
 ## Level-1
 ## Objective 
 The purpose of this assignment was to use cloud ETL skills on big data from two of Amazon's available public datasets on product reviews. The goal is to perfrom the ETL process completely in the cloud and upload a DataFrame to an RDS instance.
 
-This project required the use of Amazon Web Service (AWS), Relational Database Service (RDS), pgAdmin, google Colab, and PySpark
+This project required the use of Amazon Web Service (AWS), Relational Database Service (RDS), pgAdmin, google Colab, PySpark, and Google Colab
 
 ## AWS-RDS
 Started by creating an AWS-RDS to connect to pgAdmin
