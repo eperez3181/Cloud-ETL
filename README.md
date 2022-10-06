@@ -1,7 +1,7 @@
 # "Alexa, can You Handle Big Data?"
 #### Created by: Estela Perez
 
-## Level-1
+
 ## Objective 
 The purpose of this assignment was to use cloud ETL skills on big data from two of Amazon's available public datasets on product reviews. The goal is to perfrom the ETL process completely in the cloud and upload a DataFrame to an RDS instance.
 
